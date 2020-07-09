@@ -1,0 +1,11 @@
+[package]
+name = "Linguist"
+version = "0.0.1"
+authors = ["Antonia \"Nia\" Calia-Bogan <acaliabogan@acaliabogan.dev>"]
+edition = "2018"
+description = "Sitting on this name as a placeholder temporarily"
+documentation = "https://docs.rs/linguist"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
